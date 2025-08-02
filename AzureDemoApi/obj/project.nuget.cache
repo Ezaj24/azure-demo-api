@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RptNKY55LoY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AZAJ SHAIKH\\OneDrive\\Desktop\\azure-demo-api\\AzureDemoApi\\AzureDemoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AZAJ SHAIKH\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\AZAJ SHAIKH\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
